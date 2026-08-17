@@ -1,0 +1,3 @@
+# check the build deps in the action
+apt_src libxs-parse-keyword-perl
+version_suffix=gl0~bp1877
